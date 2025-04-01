@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Tool
 
 A text sentiment analyzer built with Python and NLTK's VADER algorithm that classifies text as positive, negative, or neutral.
@@ -46,3 +47,6 @@ The sentiment scores indicate:
 4. Type 'quit' to exit the program
 
 ## Example 
+=======
+# Sentimental_Analysis
+>>>>>>> 81ac3b78aeecc2cfe13b24b6919808b2689b90cf
